@@ -40,6 +40,30 @@ selecciona el archivo luego le das a la opcion que pone "enviar a" y luego a "es
 
 ![image](https://github.com/user-attachments/assets/6f48039d-34f2-462f-9ebb-b97ca09d3962)
 
+11
+
+![image](https://github.com/user-attachments/assets/7949da3b-ae58-4a38-962f-cd7d5c1fa618)
+
+12
+
+Hay que usar el comando gpupdate /force en el cmd
+
+![image](https://github.com/user-attachments/assets/fc50c2d8-da26-47b7-9759-dfe48b1b6371)
+
+13
+
+el comando mstsc en el cmd 
+
+![image](https://github.com/user-attachments/assets/3966243c-9c76-46c4-a203-e39d063e1aac)
+
+![image](https://github.com/user-attachments/assets/81050c64-8ffa-4d04-8090-8408491cbd5a)
+
+14
+
+![image](https://github.com/user-attachments/assets/239403ec-a0ac-4177-8893-761cfdcc331c)
+
+
+
 
 
 
