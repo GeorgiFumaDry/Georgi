@@ -15,7 +15,8 @@ selecciona el archivo luego le das a la opcion que pone "enviar a" y luego a "es
 
 4
 
-![image](https://github.com/user-attachments/assets/410e1613-22cd-45aa-ba5b-832f1726d35a)
+![image](https://github.com/user-attachments/assets/88889551-6a87-4dd5-8614-2dea12a13c00)
+
 
 5
 
