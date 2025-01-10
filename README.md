@@ -70,4 +70,3 @@ el comando mstsc en el cmd
 
 
 
-
